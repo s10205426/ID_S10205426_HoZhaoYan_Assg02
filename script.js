@@ -1,3 +1,4 @@
+//Taken from the Youtube Channel: Framework Television
 var map;
 var infowindow;
 
